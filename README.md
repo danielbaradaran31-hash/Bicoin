@@ -27,7 +27,7 @@ Das Projekt Bicoin ist ein professionelles Dashboard zur Anzeige von Preisen und
 ## 👨‍💻 Front End dev
 
 Daniel Baradaran  
-📧 E-Mail: youremail@example.com  
+📧 E-Mail: danielbaradaran31@gmail.com  
 💼 GitHub: [@danielbaradaran31-hash](https://github.com/danielbaradaran31-hash)
 
 ---
