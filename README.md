@@ -5,7 +5,7 @@ Das Projekt Bicoin ist ein professionelles Dashboard zur Anzeige von Preisen und
 
 ---
 
-## 🚀 Funktionen (Features)
+# 🚀 Funktionen (Features)
 
 - Live-Anzeige der Kryptowährungspreise  
 - Schnelle Suche zwischen verschiedenen Coins  
@@ -15,7 +15,7 @@ Das Projekt Bicoin ist ein professionelles Dashboard zur Anzeige von Preisen und
 
 ---
 
-## 🛠 Verwendete Technologien (Tech Stack)
+# 🛠 Verwendete Technologien (Tech Stack)
 
 - ⚛️ React 19
 - 🌐 Axios
@@ -24,7 +24,7 @@ Das Projekt Bicoin ist ein professionelles Dashboard zur Anzeige von Preisen und
 
 ---
 
-## 👨‍💻 Front End dev
+# 👨‍💻 Front End dev
 
 Daniel Baradaran  
 📧 E-Mail: danielbaradaran31@gmail.com  
